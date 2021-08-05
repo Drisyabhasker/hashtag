@@ -1,0 +1,68 @@
+
+
+.login {
+    background: #f8f8f8;
+    height: auto;
+}
+
+.container {
+    background-color: #417690;
+    border: 1px solid #eaeaea;
+    border-radius: 4px;
+    overflow: hidden;
+    width: 28em;
+    min-width: 300px;
+    margin: 100px auto;
+    height: auto;
+}
+
+.cardheader
+{
+  width: auto;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 40px;
+  background: #417690;
+  color: #ffc;
+  overflow: hidden;
+  text-align: center;
+}
+.cardh{
+    text-align: center;
+}
+.cardname{
+    
+    margin-right: 52px;
+    margin-left: 52px;
+    background: rgb(94, 94, 94);
+    margin:0 auto; display: block;
+    border-radius: 25px;
+}
+.cardnn{
+    margin-right: 52px;
+    margin-left: 52px;
+    background: rgb(0, 0, 0);
+    margin:0 auto; display: block;
+    border-radius: 25px;
+}
+  .head{
+    margin-right: 52px;
+    margin-left: 52px;
+      margin:0 auto; display: block;
+
+  }
+  .headerr img {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background: #555;
+    text-align: left;
+  }
+  
+  .headerr h1 {
+    position: relative;
+    top: 18px;
+    left: 10px;
+  }
